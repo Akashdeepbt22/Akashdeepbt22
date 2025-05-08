@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hey There!!&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul-19" alt="nakul-19" /> </p>
 
-#### I'm Itisha, Student at 👨‍💻 Maharaja Agrasen Institute Of Technology(MAIT), DELHI . Pursuing B.Tech. <br>  I am an WEB Developer as well as a Competitive Programmer, obsessed with the idea of continuously improving myself.
+#### I'm Itisha, 3RD Year Student at 👨‍💻 Maharaja Agrasen Institute Of Technology(MAIT), DELHI.<br> Pursuing B.Tech in Electrical and Electronics Engineering(EEE)(2022-2026) . <br>  I am an WEB Developer as well as a Competitive Programmer, obsessed with the idea of continuously improving myself.
  <br>
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWMzMHoyNXBudGcwcW9zN2txd2MzN3F6YzRvd3JscXk5aTZ1MWRleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />
 
