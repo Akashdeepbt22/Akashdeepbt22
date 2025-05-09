@@ -11,7 +11,7 @@
 - ✨  I love to build WEB applications based on unique ideas.
 - 🌱  I love to learn new things and help others. 
 - 🎨  Fun fact: Night time and good music boost my skills🌚.
-- 📄 [Download My Resume](./Itisha_kumari_RESUME_.pdf)
+
 
 
 #### 📫  How to reach me: mail me at [itishakofficial@gmail.com](mailto:itishakofficial@gmail.com)
