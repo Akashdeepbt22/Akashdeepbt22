@@ -3,7 +3,7 @@
 
 #### I'm Itisha, 3RD Year Student at 👨‍💻 Maharaja Agrasen Institute Of Technology(MAIT), DELHI. Pursuing B.Tech . <br>  I am an WEB Developer as well as a Competitive Programmer, obsessed with the idea of continuously improving myself.
  <br>
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWMzMHoyNXBudGcwcW9zN2txd2MzN3F6YzRvd3JscXk5aTZ1MWRleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l1d2c1MGI2YjJseHNwemU3ZDc5Zm0wdG9nYXJyOWs5bzdodmNuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="400px" />
 
 ## 🧐 About
 - 🏢  I'm currently an undergrad student in EEE(Electrical and Electronics Engineering)+ MINROR in AIML (2022-2026)
